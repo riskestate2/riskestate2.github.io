@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://muster.oneone.digital/riskestate2_sitemap.xml
